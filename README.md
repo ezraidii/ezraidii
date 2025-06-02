@@ -14,6 +14,4 @@
 ### 📊 GitHub Stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ezraidii&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ezraidii&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ezraidii&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ezraidii&theme=default)
