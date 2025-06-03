@@ -12,5 +12,6 @@
 ![GitHub followers](https://img.shields.io/github/followers/ezraidii?style=social)
 
 ### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ezraidii&show_icons=true&theme=radical)
+![Motivation](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ezraidii&theme=default)
